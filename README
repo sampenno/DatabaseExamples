@@ -15,6 +15,9 @@ You should ensure you study the scripts. This lesson is just to get you started.
 
 STEPS
 #####
+Change directory to Lesson01.
+Then do the following.
+
 1. Create an sqlite3 database:
 	touch Volcanoes.db 
    This will create a zero byte file. Next you create the table(s) in the database.
