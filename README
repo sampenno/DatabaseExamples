@@ -54,3 +54,14 @@ Try these queries:
 5. SELECT name, type FROM volcanoes_tbl WHERE type = 'Violent' AND last_erupted = 2018;
 
 6. SELECT name, type FROM volcanoes_tbl WHERE type = 'Quiet' AND location = 'New Zealand';
+
+Running SQL queries and althernate way
+
+For each of the above, add in the prefix "volcanoes_tbl.<columnname>". For example, question 1 would be:
+
+1. SELECT volcanoes_tbl.type FROM volcanoes_tbl;
+
+2. SELECT volcanoes_tbl.name, volcanoes_tbl.type FROM volcanoes_tbl;
+
+And so on. Redo queries 3-6 in this format.
+
