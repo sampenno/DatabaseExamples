@@ -18,12 +18,3 @@ create table Enrolments(
  StudentID INTEGER REFERENCES StudentID(Students),
  CourseID INTEGER REFERENCES CourseID(Courses)
 );
--- 
---create table sweet_tbl(
--- sweet_id INTEGER PRIMARY KEY,
--- sweet_name CHARFIELD(25),
--- bag_weight INTEGER,
--- price INTEGER,
--- image BLOB,
--- category_id INTEGER REFERENCES category_tbl(category_id)
---);
