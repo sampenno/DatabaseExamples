@@ -1,0 +1,6 @@
+0001,"Cannot connect to the internet","Clear cache","22","Software","Pending"
+0002,"Installation failure","Reinstall the printer drivers","76","Hardware","Pending"
+0004,"Forgot password","Reset password","97","Software","Resolved"
+0005,"Installation failure","Follow the installation guide","110","Hardware","Escalated"
+0009,"Blue screen error","Run a system diagnostic test","120","Software","Pending"
+0011,"Installation failure","Verify email settings","45","Software","Escalated"
