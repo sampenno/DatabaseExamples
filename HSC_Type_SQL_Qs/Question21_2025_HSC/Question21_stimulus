@@ -1,0 +1,9 @@
+Below is the Issues table for a technical support company. FixTime, in minutes, is the time taken to complete each job.
+
+Construct a SQL query that displays:
+	the number of pending software jobs
+	the number of pending hardware jobs
+	the number of escalated software jobs
+	the number of escalated hardware jobs
+List the results in order from the highest to lowest, based on the number of jobs.
+
